@@ -30,3 +30,33 @@ original_dataset/image1025.jpg,dangerous fire,"The image shows a kitchen with fl
 ![Sample Batch 1](sample1.png)
 
 ![Sample Batch 2](sample2.png)
+
+## 📚 Dataset Sources & Credits
+
+This project uses datasets from the following sources:
+
+1. **IDFire: Image Dataset for Indoor Fire Load Recognition**  
+   Source: [IEEE DataPort](https://ieee-dataport.org/documents/idfire-image-dataset-indoor-fire-load-recognition)  
+   Authors: Sheraz Ahmed, Andreas Dengel et al.  
+   License: [DataPort Terms of Use](https://ieee-dataport.org/terms-of-use)  
+   Description: A curated dataset containing indoor fire and no-fire scenarios for fire load recognition.
+
+2. **Home Fire Dataset**  
+   Source: [GitHub - PengBo0/Home-fire-dataset](https://github.com/PengBo0/Home-fire-dataset)  
+   Author: Pengbo Liu  
+   License: MIT License (as stated on the repository)  
+   Description: A dataset of home environments containing fire and no-fire images used for fire classification and detection tasks.
+
+3. **DFireDataset**  
+   [GitHub - gaiasd/DFireDataset](https://github.com/gaiasd/DFireDataset)  
+   Author: Gaia Scagnetto  
+   License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+   Description: Dataset designed for detecting fires in complex scenes including blurred, nighttime, and outdoor images.
+
+4. **Fire Detection from Images**  
+   [GitHub - robmarkcole/fire-detection-from-images](https://github.com/robmarkcole/fire-detection-from-images)  
+   Author: Rob Mark Cole  
+   License: MIT License  
+   Description: A lightweight fire dataset used in early CNN-based fire detection research, with cropped fire/non-fire examples.
+
+All datasets are used strictly for research and non-commercial purposes.
