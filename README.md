@@ -59,4 +59,4 @@ This project uses datasets from the following sources:
    License: MIT License  
    Description: A lightweight fire dataset used in early CNN-based fire detection research, with cropped fire/non-fire examples.
 
-All datasets are used strictly for research and non-commercial purposes.
+All datasets are used strictly for education, research and non-commercial purposes.
